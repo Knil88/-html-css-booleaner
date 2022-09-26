@@ -5,7 +5,7 @@
 }
 /* regole container */
 .container{
-    width: 1000px;
+    width: 900px;
     margin: auto;
 }
 /* Regole header */
@@ -19,7 +19,7 @@ header {
 /* regole logo */
 #logo {
     padding-top: 40px;
-    padding-left: 185px;
+    padding-left: 310px;
     width: 190px;
 }
 
@@ -28,7 +28,7 @@ main{
     padding-left: 5px;
 }
 section h1  {
-    font-size: 40px;
+    font-size: 0px;
     }
 #dati-scrittore{
     color: #87d2f1;
