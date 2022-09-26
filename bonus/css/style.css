@@ -1,6 +1,7 @@
 /* Regole generali */
 *{
     margin: 0;
+    box-sizing: border-box;
    
 }
 /* regole container */
@@ -16,6 +17,7 @@ header {
     background-size: 400px;
     background-position-x: 70px;
 }
+
 /* regole logo */
 #logo {
     padding-top: 40px;
@@ -28,11 +30,15 @@ main{
     padding-left: 5px;
 }
 section h1  {
-    font-size: 0px;
+    font-size: 40px;
     }
 #dati-scrittore{
-    color: #87d2f1;
+    color: darkgray;
     font-size:  25px;
+}
+#bool{
+    color: lightblue;
+    font-weight: bold;
 }
 section h1 , #dati-scrittore{
     padding-top: 10px;
@@ -45,7 +51,7 @@ section h1 , #dati-scrittore{
     padding-top: 15px;
     width: 400px;
     height: 300px;
-   
+   padding-left: 5px;
 }
 #credit{
     font-size: 13px;

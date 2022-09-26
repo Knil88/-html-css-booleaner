@@ -24,9 +24,14 @@ main{
 section h1  {
     font-size: 50px;
     }
+
 #dati-scrittore{
-    color: #87d2f1;
+    color: darkgray;
     font-size:  25px;
+}
+#bool{
+    color: lightblue;
+    font-weight: bold;
 }
 section h1 , #dati-scrittore{
     padding-top: 10px;
