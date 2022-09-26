@@ -49,3 +49,20 @@ section h1 , #dati-scrittore{
 section #articolo , ul {
     padding-top: 30px;
 }
+ .row {
+    display: inline-block;
+}
+.blue{
+    font-weight: bold;
+    color: white;
+}
+
+
+.thead{
+    background-color: #1aaae6;
+}
+    
+  
+  
+   
+   
