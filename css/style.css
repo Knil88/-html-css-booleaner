@@ -46,6 +46,6 @@ section h1 , #dati-scrittore{
 .evidenziatore{
     background-color: yellow;
 }
-section #articolo {
+section #articolo , ul {
     padding-top: 30px;
 }
