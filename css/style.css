@@ -11,9 +11,41 @@ header {
     background-size: 400px;
     background-position-x: 70px;
 }
-/* Regole logo */
+/* regole logo */
 #logo {
     padding-top: 40px;
     padding-left: 5px;
     width: 190px;
+}
+/* regole main */
+main{
+    padding-left: 5px;
+}
+section h1  {
+    font-size: 50px;
+    }
+#dati-scrittore{
+    color: #87d2f1;
+    font-size:  25px;
+}
+section h1 , #dati-scrittore{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#data{
+    font-size: 15px;
+}
+.tim{
+    padding-top: 15px;
+   
+}
+#credit{
+    font-size: 13px;
+ 
+}
+.evidenziatore{
+    background-color: yellow;
+}
+section #articolo {
+    padding-top: 30px;
 }
