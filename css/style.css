@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+header{
+    background-color:blueviolet ;
+    background-image: image(../);
+}
+#logo{
+    width:150px
+}
+#pattern{
+    
+}
