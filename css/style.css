@@ -67,7 +67,29 @@ td:last-child{
 td{
     text-align: center;
 }
+    /* regole footer */
+h3{
+    color: #87d2f1;
+    padding-top: 20px
+}
+#image  ,#image-1{
+    width: 215px;
+    height: 143px;
+     background-size: contain;
+     margin-top: 15px;
+}
+.scritta {
+    color: white;
+    font-size: 20px;
+    padding-left: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+}
   
-  
-   
+#image{
+    background-image: url(../img/monitor.jpg);
+}
+#image-1{
+    background-image: url(../img/graph.jpg);
+}
    
