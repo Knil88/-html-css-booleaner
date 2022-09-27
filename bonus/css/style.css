@@ -1,7 +1,7 @@
 /* Regole generali */
 *{
     margin: 0;
-    box-sizing: border-box;
+   
    
 }
 /* regole container */
@@ -21,7 +21,7 @@ header {
 /* regole logo */
 #logo {
     padding-top: 40px;
-    padding-left: 310px;
+    padding-left: 240px;
     width: 190px;
 }
 
